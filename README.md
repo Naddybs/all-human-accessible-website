@@ -25,6 +25,9 @@ https://naddybs.github.io/all-human-accessible-website/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+Ik heb een semantisch HTML opmaak gebruikt waardoor screenreaders het beter kunnen voorlezen, dit verhoogt de toegankelijkheid. 
+Daarnaast heb ik me gehouden aan alt teksten bij images, videos etc, hierdoor worden de fotos ook is opgelezen door screenreaders.
+In CSS heb ik gebruik gemaakt van media queries zodat het toegankelijk is voor smalle devices en large devices, dit zorgt ervoor dat het bruikbaar is op een grotere aantal displays in plaats van de basic desktop display. 
 
 
 
