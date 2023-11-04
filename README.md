@@ -14,11 +14,12 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 
+
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![image](https://github.com/Naddybs/all-human-accessible-website/assets/144009698/7d9a0161-1a8e-4d71-bbdc-97ea5e9d5877)
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
-
+https://naddybs.github.io/all-human-accessible-website/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
