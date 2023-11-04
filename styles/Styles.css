@@ -1,5 +1,5 @@
 /* desktop versie */
-/* 
+@media (min-width:950px){
  body{
 background-color: #f8fafb;
     padding: 0;
@@ -62,15 +62,15 @@ section{
    
 }
 .container-1{
-    /* width: 100%;  */
-    /* padding: 10%; */
-    /* background-color: hsl(33, 87%, 57%); */
-    /* position: relative;
+     width: 100%;  
+     padding: 10%; 
+    background-color: hsl(33, 87%, 57%); 
+    position: relative;
     top:2em;
     
     
-}    */
-/*  
+}    
+
 .card {
     display: flex;
     width: 10%;
@@ -89,8 +89,8 @@ section{
     display: flex;
     align-items: center;
     position: relative;
-    /* bottom:16em; */
-    /* background: hsl(38, 91%, 52%);
+    bottom:16em;
+    background: hsl(38, 91%, 52%);
     background-size: 30%;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
@@ -101,9 +101,9 @@ section{
   }
 
   .scroll .card{
-    flex: 0 0 50%; */
-    /* padding: 2em 1em; */
-    /* border-radius: 2em;
+    flex: 0 0 50%; 
+   padding: 2em 1em; 
+    border-radius: 2em;
     scroll-snap-type: start;
     height: 15em;
     
@@ -140,12 +140,12 @@ section{
     width:70%;
     position: absolute;
     top:5em;
-  }  */ 
+  }  }
 
   
   /* mobile versie */
 
-
+  @media (min-width:350px){
   body{
     background-color: #f8fafb;
         padding: 0;
@@ -386,9 +386,9 @@ h2{
     .custom-shape-divider-top-1697660420 .shape-fill {
         fill: hwb(34 20% 5%);
     }
-    
+  }
     /** For tablet devices **/
-    @media (min-width: 768px) and (max-width: 1023px) {
+    @media (min-width: 768px) {
         .custom-shape-divider-top-1697660420 svg {
             width: calc(152% + 1.3px);
             height: 360px;
