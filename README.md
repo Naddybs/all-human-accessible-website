@@ -13,6 +13,8 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+**ALLEEN MOBILE VERSIE AF**
+Begonnen aan een nieuwe versie van de favorietenpagina redesign die ook voldoet aan de toegankelijkheidsnormen. Dit zorgt voor een betere gebruikerservaring en maakt de website bruikbaar voor een breder publiek. 
 
 
 <!-- Voeg een mooie poster visual toe 📸 -->
